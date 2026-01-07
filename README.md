@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farnaz
+# 👋 Hi, I'm Raha
 
 💡 **Senior Data Scientist | Operations Researcher | Optimization Enthusiast**  
 Passionate about building scalable decision-support systems using mathematical programming, machine learning, and simulation. I specialize in solving complex problems across supply chain, finance, and energy systems.
