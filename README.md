@@ -23,7 +23,7 @@ Passionate about building scalable decision-support systems using mathematical m
 - Sensor-Driven Maintenance Optimization for Power Systems (Ph.D. Research)
 - Item Slotting Optimization in Medical Warehouses (Ph.D. Research)
 
-🔗 [Publications](https://scholar.google.com/citations?hl=en&user=TNy_DI8AAAAJ) 
+🔗 [Publications]([https://scholar.google.com/citations?hl=en&user=TNy_DI8AAAAJ](https://scholar.google.com/citations?hl=en&user=mY1BsoUAAAAJ&view_op=list_works&sortby=pubdate)) 
 
 ---
 
